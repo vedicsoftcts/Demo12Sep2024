@@ -1,2 +1,3 @@
 file name f2
 2nd line in f2
+3rd line
