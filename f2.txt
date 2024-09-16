@@ -1,3 +1,5 @@
 file name f2
 2nd line in f2
 3rd line
+
+new line in f2 in dev1 branch
