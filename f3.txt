@@ -3,3 +3,4 @@ new line 2nd line
 3rd line 
 
 This new file for f3 in dev1 branch
+Hello this is f3 file in master branch
